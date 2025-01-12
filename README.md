@@ -1,16 +1,23 @@
-# flutter_application
+# Movie App
 
-A new Flutter project.
+This is a Flutter-based movie app that allows users to explore a variety of movies, search for specific titles, and view detailed information about each movie.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Splash Screen**: Displays a splash image as the app loads.
+- **Home Screen**: Shows a list of movies fetched from the TVMaze API, each with a thumbnail, title, and summary.
+- **Search Screen**: Allows users to search for movies by name using the TVMaze API.
+- **Details Screen**: Displays detailed information about a movie, including its summary, title, and image.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- **Dart**: The programming language used to develop the Flutter app.
+- **TVMaze API**: Used to fetch movie and show data for the app.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Setup Instructions
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/Movie-App.git
+
