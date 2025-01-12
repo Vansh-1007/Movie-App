@@ -19,5 +19,5 @@ This is a Flutter-based movie app that allows users to explore a variety of movi
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/Movie-App.git
+   git clone https://github.com/Vansh-1007/Movie-App.git
 
